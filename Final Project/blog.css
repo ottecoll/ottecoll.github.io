@@ -1,0 +1,42 @@
+h1 {
+  text-align: center;
+  color: lightgreen;
+}
+
+article {
+  margin: 0 auto;
+  max-width: 500px;
+  padding: 20px;
+  background-color: lightgreen;
+  color: white;
+}
+
+@media (max-width: 500px) {
+  body {
+    background: red;
+  }
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+}
+
+h4 {
+  font-size: 24px;
+}
+
+h5 {
+  font-size: 18px;
+}
+
+h6 {
+  font-size: 24px;
+}
+
+h7 {
+  font-size: 18px;
+  font-weight: bold;
+}
